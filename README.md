@@ -1,4 +1,10 @@
-This Jupyter Notebook is focused on graph analysis and visualization using the NetworkX library. Here's a summary of its key components and functionality:
+# Fun assignments from some CS classes at school
+
+CS 3450: Algorithms
+CS 3451: Advanced Data Structures
+
+# graph_scissors
+This notebook is focused on graph analysis and visualization using the NetworkX library. Here's a summary of its key components and functionality:
 
 1. Core Functions:
    - `create_graph_from_file()`: Reads a text file containing node connections (in format "node: connected_nodes") and creates an undirected graph
